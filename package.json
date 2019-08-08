@@ -1,0 +1,19 @@
+{
+  "name": "jyagaimo",
+  "version": "0.0.1",
+  "description": "A thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souske25/jyagaimo.git"
+  },
+  "author": "jeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souske25/jyagaimo/issues"
+  },
+  "homepage": "https://github.com/souske25/jyagaimo#readme"
+}
